@@ -10,8 +10,8 @@
 - 
 -
 ### Git
-- [Git 2일차(명령어)](C:\Users\phj95\TIL\git-02.md)
+- [Git 2일차(명령어)](https://github.com/PHJoon/TIL.git\git-02.md)
 -
 ### Markdown
-- [Markdown 기본](C:\Users\phj95\TIL\markdown.md)
+- [Markdown 기본](https://github.com/PHJoon/TIL.git\markdown.md)
 -
