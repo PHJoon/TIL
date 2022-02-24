@@ -7,8 +7,11 @@
 - 다시 봐도 이해할 수 있게 내용 정리
 
 ### Python
--
+- 
 -
 ### Git
+- [Git 2일차(명령어)](C:\Users\phj95\TIL\git-02.md)
 -
+### Markdown
+- [Markdown 기본](C:\Users\phj95\TIL\markdown.md)
 -
