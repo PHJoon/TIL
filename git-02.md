@@ -9,8 +9,6 @@
 - **git config --global -l or --list**
   - 작성자 설정 확인
 
-
-
 - **git init** 
   - 저장소 사용하려는 디렉터리 가서 실행, 저장소 초기화되고 git 저장소 생성
     - 이미 git저장소인 폴더 내에 또 다른 저장소 생성 금지(터미널에 이미 master가 있다면 입력X)
@@ -63,6 +61,16 @@
     - `--reverse` : 커밋 내역의 순서를 반대로
     - `-p` : 파일 변경 내용도 보여줌
     - `-숫자` : 원하는 숫자만큼의 내역 보여줌
+
+- **git reset HEAD `파일명`**
+  - 스테이지에 add된 파일 취소
+  - `파일명` 생략하면 스테이지의 모든 파일 취소
+
+- **git reset HEAD^**
+  - commit을 취소
+
+- **git commit --amend**
+  - commit message 수정
 
 - **.gitignore**
   - git이 특정 파일이나 폴더에 버전 관리 못하게 지정
