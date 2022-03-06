@@ -6,7 +6,7 @@
 - 다시 봐도 이해할 수 있게 내용 정리
 ---
 ### Python
-- 
+- [Pandas기본](https://github.com/PHJoon/TIL/blob/master/pandas.md)
 -
 ### Git
 - [Git 명령어](https://github.com/PHJoon/TIL/blob/master/git-02.md)
