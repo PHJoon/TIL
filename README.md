@@ -1,6 +1,5 @@
 # Today I Learned(TIL)
-- 배운 내용 정리하기
-- 부족한 부분 생각하기
+- 실습, 연습 코드 올리는 공간
 ## 작성 규칙
 - 자료 출처 반드시 기입
 - 다시 봐도 이해할 수 있게 내용 정리
@@ -15,3 +14,7 @@
 ### Markdown
 - [Markdown 기본](https://github.com/PHJoon/TIL/blob/master/markdown.md)
 -
+
+### HTML(생활코딩)
+- [html 기본]()
+- 
