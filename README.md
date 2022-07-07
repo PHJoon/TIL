@@ -6,15 +6,13 @@
 ---
 ### Python
 - [Pandas기본](https://github.com/PHJoon/TIL/blob/master/Pandas/pandas.md)
--
+
 ### Git
 - [Git 명령어](https://github.com/PHJoon/TIL/blob/master/Git/git-02.md)
 - [Git 충돌](https://github.com/PHJoon/TIL/blob/master/Git/git_conflict.md)
-- 
+
 ### Markdown
 - [Markdown 기본](https://github.com/PHJoon/TIL/blob/master/Markdown/markdown.md)
--
 
 ### HTML(생활코딩)
 - [html 기본](https://github.com/PHJoon/TIL/blob/master/html)
-- 
